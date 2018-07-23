@@ -20,7 +20,11 @@ public class Cat extends Pet {
         String msg = String.format("|CAT |%5s|%-15s|%4d|%4.1f", id, name, yob, weight);
         System.out.println(msg);
 System.out.println("123456");
+
 System.out.println("No dau canh tre");
+
+System.out.println("con co be be");
+
     }
     
 }
