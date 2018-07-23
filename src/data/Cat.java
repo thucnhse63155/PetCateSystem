@@ -19,6 +19,7 @@ public class Cat extends Pet {
     public void showDetailed() {
         String msg = String.format("|CAT |%5s|%-15s|%4d|%4.1f", id, name, yob, weight);
         System.out.println(msg);
+System.out.println("123456");
     }
     
 }
